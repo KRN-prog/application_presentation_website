@@ -1,0 +1,71 @@
+@media screen and (max-width: 1023px) {
+  .sectionBxShadow{
+    height: 355px;
+    background: url(../images/online-app.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-top: 70px;
+    -webkit-box-shadow: inset -1000px 0px 45px -34px rgba(255,255,255,.5);
+    -moz-box-shadow: inset -1000px 0px 45px -34px rgba(255,255,255,.5);
+    box-shadow: inset -1000px 0px 35px -55px rgba(255,255,255,.5);
+  }.sectionTxt{
+    margin-top: 100px;
+  }#lorem1{
+    background: none;
+    margin-bottom: 50px;
+    text-align: center;
+  }
+  .bg2{
+    float: right;
+  }
+  .lastSection{
+    position: absolute;
+    z-index: 999;
+  }
+  .sectionBxShadow2{
+    height: 355px;
+    background: url("../images/guy-relaxed-on-couch.png");
+    background-position: top;
+    background-repeat: no-repeat;
+    -webkit-box-shadow: inset 1000px 0px 45px -34px rgba(255,255,255,.5);
+    -moz-box-shadow: inset 1000px 0px 45px -34px rgba(255,255,255,.5);
+    box-shadow: inset 1000px 0px 45px -34px rgba(255,255,255,.5);
+  }.lastH1{
+    margin-bottom: 130px;
+    text-align: center;
+  }.lastSection{
+    background: none;
+  }
+  #marginBottom100{
+    background: #fff;
+  }
+  .paddingTop10{
+    padding-top: 10px;
+  }
+}
+@media screen and (max-width: 1024px) and (min-width: 633px){
+  #lorem1{
+    background: none;
+    margin-bottom: 195px;
+    text-align: center;
+  }.lastSection{
+    background: none;
+  }
+  #marginBottom100{
+    background: #fff;
+  }.lastH1{
+    margin-bottom: 100px;
+    text-align: center;
+    margin-top: 100px;
+  }.sectionBxShadow{
+    height: 440px;
+  }.sectionBxShadow2{
+    height: 390px;
+  }
+}
+@media screen and (max-width: 1266px) and (min-width: 1024px){
+  .sectionBxShadow{
+    height: 425px;
+  }
+}

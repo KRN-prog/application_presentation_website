@@ -1,0 +1,88 @@
+html{
+  height: 100%;
+}
+body{
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  font-family: sans-serif;
+  background: #efefef;
+}header{
+  margin-top: 10px;
+}.article{
+  padding: 0;
+}.section{
+  padding: 0;
+}.sectionBxShadow{
+  height: 355px;
+  background: url("../images/online-app.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  -webkit-box-shadow: inset -80px 0px 45px -34px rgba(255,255,255,1);
+  -moz-box-shadow: inset -80px 0px 45px -34px rgba(255,255,255,1);
+  box-shadow: inset -80px 0px 45px -34px rgba(255,255,255,1);
+}
+.sectionBxShadow2{
+  height: 350px;
+  background: url("../images/guy-relaxed-on-couch.png");
+  background-position: top;
+  background-repeat: no-repeat;
+  -webkit-box-shadow: inset 80px 0px 45px -34px rgba(255,255,255,1);
+  -moz-box-shadow: inset 80px 0px 45px -34px rgba(255,255,255,1);
+  box-shadow: inset 80px 0px 45px -34px rgba(255,255,255,1);
+}
+.marginTop30{
+  margin-top: 30px;
+}.sectionTxt{
+  margin-top:30px;
+  color:#356fa4;
+}.fontSize50{
+  font-size: 50px;
+}.marginTop10{
+  margin-top:10px;
+}button{
+  background:#386fa3;
+  color:#fff;
+  border-radius:4px;
+  border:none;
+  padding:10px 65px;
+  margin-top:30px;
+}#require{
+  margin-top: 10px;
+  margin-bottom: 30px;
+  font-size: 10px;
+  color: #737373;
+}#workingIn2020{
+  font-size:30px;
+  color:#356fa4;
+  margin-top:15px;
+}.marginTop25{
+  margin-top: 25px;
+}#lastSection{
+  margin-top:30px;
+  font-size:10px;
+}#marginBottom100{
+  margin-bottom: 100px;
+}#lorem1{
+  background: #fff;
+}#lorem1Btns{
+  background: #fff;
+}.lastSection{
+  background: #fff;
+}.txt1{
+  font-size: 40px;
+  color: #436da2;
+}.txt1-1{
+  font-size: 40px;
+  color: #436da2;
+  margin-top: 20px;
+}
+.txt1-2{
+  font-size: 40px;
+  color: #436da2;
+  margin-top: 10px;
+}
+.txt1-3{
+  font-size: 40px;
+  color: #436da2;
+}
